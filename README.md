@@ -26,8 +26,8 @@ Feel free to explore these repositories and let me know your thoughts!
 
 I'm always open to collaborations, discussions, and feedback. Feel free to reach out:
 
-- Twitter: [@YourTwitterHandle](link)
-- Instagram: [@yashitaaarya]()
+<!-- - Twitter: [@YourTwitterHandle](link) -->
+- Instagram: [@yashitaaarya](https://www.instagram.com/yashitaaarya/)
 - LinkedIn: [Yashitaa Arya](https://www.linkedin.com/in/yashitaaarya/)
 - Email: [yashitaaarya23@gmail.com](mailto:yashitaaarya23@gmail.com)
 
