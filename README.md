@@ -18,7 +18,7 @@ I'm Yashitaa Arya, currently an Executive member of the Robotics Society at NIT-
 Here are some of the projects I'm particularly proud of:
 
 1. [SLAM Mantis Bot](https://github.com/YashitaaArya/Mantis): Description of SLAM Mantis Bot project.
-2. [Text Summariser GUI](link): Description of Text Summariser GUI project.
+2. [Text Summariser GUI](link): A user interface where one can summerize and optimize input texts or URLs. It works for both. It has a basic use of python and nltk package.
 
 Feel free to explore these repositories and let me know your thoughts!
 
@@ -28,7 +28,7 @@ I'm always open to collaborations, discussions, and feedback. Feel free to reach
 
 - Twitter: [@YourTwitterHandle](link)
 - Instagram: [@yashitaaarya]()
-- LinkedIn: [Your LinkedIn Profile](link)
+- LinkedIn: [Yashitaa Arya](https://www.linkedin.com/in/yashitaaarya/)
 - Email: [yashitaaarya23@gmail.com](mailto:yashitaaarya23@gmail.com)
 
 Let's connect and create something amazing together!
