@@ -17,9 +17,11 @@ I'm Yashitaa Arya, currently an Executive member of the Robotics Society at NIT-
 
 Here are some of the projects I'm particularly proud of:
 
-1. [SLAM Mantis Bot](https://github.com/YashitaaArya/Mantis): Description of SLAM Mantis Bot project.
-2. [Text Summariser GUI](link): A user interface where one can summerize and optimize input texts or URLs. It works for both. It has a basic use of python and nltk package.
-
+1. [SLAM Mantis Bot](https://github.com/YashitaaArya/Mantis): Mantis named SLAM bot itself describes its functionalities; Simultaneous Localisation and Mapping done with the help of LIDAR scanner and Odometry data.
+2. [Text Summariser GUI](link): A user interface where one can summerize and optimize input texts or URLs, it works for both. It has a basic use of python and nltk package.
+   <br>
+   Here's a [Devfolio](https://devfolio.co/projects/zip-the-text-635e) link for the Text Summariser GUI named as Zip the Text!
+<br>
 Feel free to explore these repositories and let me know your thoughts!
 
 ## Get in Touch
