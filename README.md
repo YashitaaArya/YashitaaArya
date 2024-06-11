@@ -5,12 +5,12 @@ I'm Yashitaa Arya, currently an Executive member of the Robotics Society at NIT-
 
 ## About Me
 
-- 💼 Currently an executive member of the Robotics society at NIT-Hamirpur
+- 💼 Currently a member of the Robotics society at NIT-Hamirpur
 - 🎓 Pursuing BTech in CSE, graduating in 2026
 - 💻 Strong interests in Coding and Robotics
 - 🌟 Programming skills: Python, C/C++, OOPs and DSA, ROS 1 and ROS 2, MATLAB
 - 🎨 Proficient in graphic designing using Canva and Adobe Photoshop
-- 💡 Actively practicing coding on LeetCode, CodeForces, and HackerRank
+- 💡 Actively practicing coding on LeetCode and CodeChef.
 - 🎶 Hobbies: Singing and Astronomy
 
 ## Featured Repositories
