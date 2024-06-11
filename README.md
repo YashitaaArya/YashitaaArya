@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile!
 
 👋 Hi there!<br>
-I'm Yashitaa Arya, currently an Executive member of the Robotics Society at NIT-Hamirpur. I'm pursuing a B.Tech in Computer Science and Engineering, with an expected graduation year of 2026. I'm deeply passionate about coding and robotics, and I enjoy exploring various aspects of technology.
+I'm Yashitaa Arya, currently working as a member of the Robotics Society at NIT-Hamirpur. I'm pursuing a B.Tech in Computer Science and Engineering, with an expected graduation year of 2026. I'm deeply passionate about coding and robotics, and I enjoy exploring various aspects of technology.
 
 ## About Me
 
