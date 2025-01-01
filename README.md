@@ -1,37 +1,5 @@
 # Welcome to my GitHub Profile!
 
-👋 Hi there!
-
-
-About Me
-
-💼 Active member of the Robotics Society at NIT Hamirpur
-
-🎓 Pursuing B.Tech in Computer Science and Engineering (Graduating 2026)
-
-💻 Passionate about:
-
-Robotics and Automation
-
-Programming (Python, C/C++, OOPs, and DSA)
-
-Robotics Operating Systems (ROS 1 and ROS 2)
-
-Data Analysis and Visualization (MATLAB)
-
-🎨 Skilled in Graphic Design using Canva and Adobe Photoshop
-
-🌟 Regularly practicing coding challenges on LeetCode and CodeChef
-
-🎶 Hobbies: Singing and stargazing (Astronomy)
-
-
-
-
-
-
-
-
 👋 Hi there!<br>
 I'm Yashitaa Arya, a passionate tech enthusiast currently pursuing a B.Tech in Computer Science and Engineering at NIT Hamirpur (graduating in 2026). As a member of the Robotics Society at NIT-H, I’m driven by a deep interest in coding and robotics and love exploring cutting-edge technologies.
 
@@ -40,9 +8,8 @@ I'm Yashitaa Arya, a passionate tech enthusiast currently pursuing a B.Tech in C
 - 💼 Currently a member of the Robotics society at NIT-Hamirpur
 - 🎓 Pursuing BTech in CSE, graduating in 2026
 - 💻 Strong interests in Coding and Robotics
-- 🌟 Programming skills: Python, C/C++, OOPs and DSA, ROS 1 and ROS 2, MATLAB
-- 🎨 Proficient in graphic designing using Canva and Adobe Photoshop
-- 💡 Actively practicing coding on LeetCode and CodeChef.
+- 🌟 Programming skills: Python, C/C++, OOPs and DSA, ROS, MATLAB
+- 💡 Regularly practicing coding challenges on LeetCode and CodeChef
 - 🎶 Hobbies: Singing and Astronomy
 
 ## Featured Repositories
