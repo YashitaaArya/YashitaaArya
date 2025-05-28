@@ -5,12 +5,12 @@ I'm Yashitaa Arya, a passionate tech enthusiast currently pursuing a B.Tech in C
 
 ## About Me
 
-- 💼 Currently a member of the Robotics society at NIT-Hamirpur
-- 🎓 Pursuing BTech in CSE, graduating in 2026
-- 💻 Strong interests in Coding and Robotics
-- 🌟 Programming skills: Python, C/C++, OOPs and DSA, ROS
-- 💡 Regularly practicing coding challenges on LeetCode, CodeChef and Codeforces
-- 🎶 Hobbies: Singing and Astronomy
+- Currently a member of the Robotics society at NIT-Hamirpur
+- Pursuing BTech in CSE, graduating in 2026
+- Strong interests in Coding and Robotics
+- Programming skills: Python, C/C++, OOPs and DSA, ROS
+- Regularly practicing coding challenges on LeetCode, CodeChef and Codeforces
+- Hobbies: Singing and Astronomy
 
 ## Featured Repositories
 
