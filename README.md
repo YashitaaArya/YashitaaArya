@@ -58,6 +58,7 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" title="Quickdraw: Closed an issue or PR within 5 minutes" height="60">
   <!-- Add more badges you earned by copying their image URLs -->
 </p>
+
 ---
 
 ### 🏆 Achievements & Fun
@@ -65,19 +66,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YashitaaArya&theme=radical&no-bg=true&row=1" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashitaaArya&label=Profile+Views&color=3F6AD8&style=flat"/>
-</p>
-
 ---
 
-### 💬 Get in Touch
-
-<p align="center">
-  <a href="mailto:yashitaaarya23@gmail.com"><img src="https://img.shields.io/badge/Email-3F6AD8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yashitaaarya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yashitaaarya/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 ### 💬 Get in Touch
 
 <p align="center">
@@ -88,9 +78,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://www.instagram.com/yashitaaarya/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40"/>
+    <img src="image.png" alt="Instagram" height="40"/>
   </a>
 </p>
+
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashitaaArya&label=Profile+Views&color=3F6AD8&style=flat"/>
+</p>
 
 <p align="center"><b>Let's connect and create something amazing together! 🚀</b></p>
