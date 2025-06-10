@@ -80,7 +80,67 @@
   <a href="https://www.instagram.com/yashitaaarya/" target="_blank">
     <img src="image.png" alt="Instagram" height="40"/>
   </a>
+  <a href="https://leetcode.com/u/yashitaaarya23/" target="_blank">
+    <img src="assets/leetcode.png" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/yashitaaarya" target="_blank">
+    <img src="assets/codeforces.png" alt="Codeforces" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/yashitaaarya" target="_blank">
+    <img src="assets/codechef.png" alt="CodeChef" height="40"/>
+  </a>
 </p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="32"/>
+    </td>
+    <td>
+      <a href="mailto:yashitaaarya23@gmail.com">yashitaaarya23@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32"/>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/yashitaaarya/">linkedin.com/in/yashitaaarya</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="image.png" alt="Instagram" height="32"/>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/yashitaaarya/">@yashitaaarya</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/leetcode.png" alt="LeetCode" height="32"/>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/yashitaaarya23/">leetcode.com/u/yashitaaarya23</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/codeforces.png" alt="Codeforces" height="32"/>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/yashitaaarya">codeforces.com/profile/yashitaaarya</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/codechef.png" alt="CodeChef" height="32"/>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/yashitaaarya">codechef.com/users/yashitaaarya</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
