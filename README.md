@@ -81,13 +81,13 @@
     <img src="image.png" alt="Instagram" height="40"/>
   </a>
   <a href="https://leetcode.com/u/yashitaaarya23/" target="_blank">
-    <img src="assets/leetcode.png" alt="LeetCode" height="40"/>
+    <img src="image2.png" alt="LeetCode" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/yashitaaarya" target="_blank">
-    <img src="assets/codeforces.png" alt="Codeforces" height="40"/>
+    <img src="image3.png" alt="Codeforces" height="40"/>
   </a>
   <a href="https://www.codechef.com/users/yashitaaarya" target="_blank">
-    <img src="assets/codechef.png" alt="CodeChef" height="40"/>
+    <img src="image4.png" alt="CodeChef" height="40"/>
   </a>
 </p>
 
@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/leetcode.png" alt="LeetCode" height="32"/>
+      <img src="image2.png" alt="LeetCode" height="32"/>
     </td>
     <td>
       <a href="https://leetcode.com/u/yashitaaarya23/">leetcode.com/u/yashitaaarya23</a>
@@ -126,7 +126,7 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/codeforces.png" alt="Codeforces" height="32"/>
+      <img src="image3.png" alt="Codeforces" height="32"/>
     </td>
     <td>
       <a href="https://codeforces.com/profile/yashitaaarya">codeforces.com/profile/yashitaaarya</a>
@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td>
-      <img src="assets/codechef.png" alt="CodeChef" height="32"/>
+      <img src="image4.png" alt="CodeChef" height="32"/>
     </td>
     <td>
       <a href="https://www.codechef.com/users/yashitaaarya">codechef.com/users/yashitaaarya</a>
