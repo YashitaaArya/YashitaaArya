@@ -7,7 +7,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 - 🎓 **B.Tech in Computer Science and Engineering, NIT Hamirpur (2026)**
 - 🤖 Member, Robotics Society @ NIT-H
 - 💻 **Tech Stack:** Python, C/C++, OOPs, DSA, ROS
@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 1. [**SLAM Mantis Bot**](https://github.com/YashitaaArya/Mantis): Simultaneous Localization and Mapping bot using LIDAR and Odometry.
 2. **Operating System Codes**: Implementations of process scheduling, deadlock handling, and memory management.
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -43,14 +43,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashitaaArya&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YashitaaArya&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashitaaArya&layout=compact&theme=radical" height="165"/>
 </p>
 
-### 🏅 Badges Earned
+### Badges Earned
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" title="Pull Shark: Merged pull requests" height="60">
@@ -61,14 +61,14 @@
 
 ---
 
-### 🏆 Achievements & Fun
+### Achievements & Fun
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YashitaaArya&theme=radical&no-bg=true&row=1" />
 </p>
 
 ---
 
-### 💬 Get in Touch
+### Get in Touch
 
 <p align="center">
   <a href="mailto:yashitaaarya23@gmail.com" target="_blank">
@@ -88,4 +88,4 @@
   <img src="https://komarev.com/ghpvc/?username=YashitaaArya&label=Profile+Views&color=3F6AD8&style=flat"/>
 </p>
 
-<p align="center"><b>Let's connect and create something amazing together! 🚀</b></p>
+<p align="center"><b>Let's connect and create something amazing together!</b></p>
