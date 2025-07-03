@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Yashitaa Arya</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F6AD8&center=true&width=400&lines=Tech+Enthusiast+%7C+Robotics+%7C+Coder;B.Tech+%7C+CSE+%40+NIT+Hamirpur+%282026%29;Let's+connect+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F6AD8&center=true&width=405&lines=Tech+Enthusiast+%7C+Robotics+%7C+Coder;B.Tech+%7C+CSE+%40+NIT+Hamirpur+%282026%29;Let's+connect+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
