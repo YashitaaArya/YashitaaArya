@@ -46,7 +46,7 @@
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashitaaArya&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashitaaArya&theme=dark" height="165"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=YashitaaArya&theme=dark" height="165"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashitaaArya&layout=compact&theme=dark" height="165"/>
 </p>
 
@@ -61,15 +61,13 @@
 
 ---
 
-### Achievements & Fun
+<!-- ### Achievements & Fun
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashitaaArya&theme=dark&no-bg=true&row=1" />
-</p>
-
----
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=YashitaaArya&theme=dark&no-bg=true&row=1" /> -->
+<!--</p> -->
 
 ### Get in Touch
-
+<!--
 <p align="center">
   <a href="mailto:yashitaaarya23@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40"/>
@@ -89,7 +87,7 @@
   <a href="https://www.codechef.com/users/yashitaaarya" target="_blank">
     <img src="image4.png" alt="CodeChef" height="40"/>
   </a>
-</p>
+</p> -->
 
 <table>
   <tr>
