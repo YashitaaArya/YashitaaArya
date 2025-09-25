@@ -46,7 +46,7 @@
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashitaaArya&show_icons=true&theme=dark" height="165"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=YashitaaArya&theme=dark" height="165"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashitaaArya&theme=dark" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashitaaArya&layout=compact&theme=dark" height="165"/>
 </p>
 
