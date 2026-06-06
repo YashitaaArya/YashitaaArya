@@ -10,7 +10,6 @@
 
 ### About Me
 - 🎓 **B.Tech in Computer Science and Engineering, NIT Hamirpur (2026)**
-- 🤖 Member, Robotics Society @ NIT-H
 - 💻 **Tech Stack:** Python, C/C++, OOPs, DSA, ROS
 - 🌱 Currently exploring: Robotics, AI, and advanced coding challenges
 - 🎯 Platforms: LeetCode, CodeChef, Codeforces
