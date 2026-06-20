@@ -12,7 +12,7 @@
 - 🎓 **B.Tech in Computer Science and Engineering, NIT Hamirpur (2026)**
 - 💻 **Tech Stack:** Python, C/C++, OOPs, DSA, ROS
 - 🌱 Currently exploring: Robotics, AI, and advanced coding challenges
-- 🎯 Platforms: LeetCode, CodeChef, Codeforces
+- 🎯 Platforms: LeetCode, CodeChef, Codeforces, Hackerrank
 - 🎵 Hobbies: Singing & Astronomy
 
 ---
