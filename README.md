@@ -107,13 +107,11 @@ Completed a certified 4-week training in Advanced Drone Technology, Astronomy & 
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=C9A7EB" width="100%"/>
 
-### 🎗️ GitHub Stats
+### 🎗️ GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YashitaaArya/YashitaaArya/main/metrics.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/YashitaaArya/YashitaaArya/output/pastel-snake.svg" width="90%"/>
 </p>
-
-<sub>Generated automatically by a GitHub Actions workflow in this repo (see setup note below) — this keeps it reliable instead of depending on the public stats service, which has been rate-limited and flaky for most users lately.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=C9A7EB" width="100%"/>
 
