@@ -138,6 +138,14 @@
       <a href="https://www.codechef.com/users/yashitaaarya">codechef.com/users/yashitaaarya</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img/>
+    </td>
+    <td>
+      <a href="https://codolio.com/profile/yashitaaarya">codolio.com/profile/yashitaaarya</a>
+    </td>
+  </tr>
 </table>
 
 ---
